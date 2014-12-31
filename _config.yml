@@ -1,0 +1,39 @@
+# Site settings
+title:       Spoony's Site
+email:       spoony21@gmail.com
+author:      Spoony
+description: "无折腾不生活"
+baseurl:     ""
+url:         "http://ispoony.github.io"
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: false
+github_username: ispoony
+stackoverflow_id:
+twitter_username: imSpoony
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
