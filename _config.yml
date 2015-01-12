@@ -1,0 +1,16 @@
+name: Spoony's site
+description: enjoy
+meta_description: "personal site"
+bio: Keep going
+
+markdown: redcarpet
+highlighter: pygments
+logo: true
+paginate: 15
+baseurl: /
+domain_name: 'http://localhost:4000'
+google_analytics:
+
+# Details for the RSS feed generator
+url:            'http://xiaoqing.info'
+author:         'Spoony'
