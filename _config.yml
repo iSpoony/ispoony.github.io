@@ -9,7 +9,7 @@ logo: true
 paginate: 15
 baseurl: /
 domain_name: 'http://localhost:4000'
-google_analytics:
+google_analytics: UA-59167977-1
 
 # Details for the RSS feed generator
 url:            'http://xiaoqing.info'
